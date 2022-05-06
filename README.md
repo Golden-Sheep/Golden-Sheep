@@ -6,7 +6,7 @@ Me chamo João Victor, tenho 23 anos e sou apaixonado por tecnologia e desenvolv
 
 Estudo a parte de análise e desenvolvimento de software desde meus 15 anos quando iniciei um curso tecnico de informática no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, Câmpus Presidente Epitácio.
 
-Atualmente estou trabalhando como desenvolvedor Full-stack Web na DZP Serviços de Internet e estou terminando a faculdade de análise e desenvolvimento de software no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, Câmpus Presidente Epitácio.
+Sou graduado em Análise e Desevolvimento de Sistema pelo Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, Câmpus Presidente Epitácio e atualmente estou trabalhando como desenvolvedor Full-stack Web Pleno na Kzas Krédito e cursando uma Pós-graduação Lato Sensu - MBA, Data Science e Analytics na USP/Esalq.
 
 
 
