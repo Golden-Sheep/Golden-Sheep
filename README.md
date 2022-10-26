@@ -2,7 +2,7 @@
 
 **Olá, Seja bem-vindo. Aceita um café?** <br><br>
 
-Me chamo João Victor, tenho 23 anos e sou apaixonado por tecnologia e desenvolvimento.
+Me chamo João Victor, tenho 24 anos e sou apaixonado por tecnologia e desenvolvimento.
 
 Estudo a parte de análise e desenvolvimento de software desde meus 15 anos quando iniciei um curso tecnico de informática no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, Câmpus Presidente Epitácio.
 
