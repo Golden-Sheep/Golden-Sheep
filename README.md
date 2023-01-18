@@ -48,5 +48,5 @@ Sou graduado em Análise e Desevolvimento de Sistema pelo Instituto Federal de E
 <a href="https://api.whatsapp.com/send?phone=5518996879516" rel="nofollow"><img src="https://camo.githubusercontent.com/311f4144ef41d9071d9a3e83054d6970b00109e1d8808479323742abcc2ea8bf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57686174734170702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f6170692e77686174736170702e636f6d2f73656e643f70686f6e653d35353138393937393933363336" alt="WhatsApp: ArandaBM" data-canonical-src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white&amp;link=https://api.whatsapp.com/send?phone=5518997993636" style="max-width:100%;"></a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=Golden-Sheep&show_icons=true&theme=tokyonight&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Golden-Sheep&show_icons=true&theme=tokyonight&count_private=true)
 
