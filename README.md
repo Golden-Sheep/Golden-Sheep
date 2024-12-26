@@ -2,8 +2,6 @@
 
 **Olá, Seja bem-vindo. Aceita um café?** <br><br>
 
-Me chamo João Victor, tenho 26 anos e sou apaixonado por tecnologia e desenvolvimento.
----
 
 🌐 **Infra e Serviços**
 
