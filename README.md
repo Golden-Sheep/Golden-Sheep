@@ -3,11 +3,6 @@
 **Olá, Seja bem-vindo. Aceita um café?** <br><br>
 
 Me chamo João Victor, tenho 26 anos e sou apaixonado por tecnologia e desenvolvimento.
-
-Estudo a parte de análise e desenvolvimento de software desde meus 15 anos quando iniciei um curso técnico de informática no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, Câmpus Presidente Epitácio.
-
-Sou graduado em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, Câmpus Presidente Epitácio e atualmente estou trabalhando como Desenvolvedor Full-Stack Web Pleno na Kzas Krédito e cursando uma Pós-graduação Lato Sensu - MBA, Data Science e Analytics na USP/Esalq.
-
 ---
 
 🌐 **Infra e Serviços**
